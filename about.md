@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-More to come soon.
+Hi, I'm Jigar, a software engineer from New Zealand, interested in helping teams deliver good software.
 
-### More Information
+I excel in challenging environments that require creative thinking and I am good at getting things done. I enjoy all 
+aspects of software development and have a track record of delivering solutions that customers love.  
 
-More to come soon.
+Humble, honest and hungry, I would love to work with you in your next venture.
 
 ### Contact me
 
-More to come soon.
+[email@jigar.xyz](mailto:email@jigar.xyz)
