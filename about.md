@@ -3,8 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-## About me
-
 Hi, I'm Jigar, a software engineer from New Zealand, interested in helping teams deliver good software (remotely or otherwise).
 
 I excel in challenging environments that require creative thinking and I am good at getting things done. I enjoy all 
