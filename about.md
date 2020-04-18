@@ -13,10 +13,11 @@ If your idea can solve a problem that customers will pay for and you need to bui
 ### Past Projects
 
 Some of my notable past projects include:
-- developing APIs for real time tracking of public transport
-- help a museum reach massive audiences with digital transformation
-- working with a broadcast company to streamline their catalogue services
 - leveraging the power of big data to deliver life saving drugs of the future
+- customising a project management product for one of the worlds leading telecom operators
+- helping a museum reach massive audiences with digital transformation
+- developing APIs for real time tracking of public transport
+- working with a broadcast company to streamline their catalogue services
 
 ### Experience with
 
