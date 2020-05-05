@@ -21,7 +21,7 @@ Some of my notable past projects include:
 
 ### Experience with
 
-I have experience with the following (groupings are arbitrary):
+I have experience with the following technologies (groupings are arbitrary):
 
 - Go (Golang) / Java / Scala / Groovy
 - Akka / Reactive Streams / Apache Camel
