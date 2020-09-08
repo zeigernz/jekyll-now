@@ -10,7 +10,7 @@ aspects of software development, and I have a track record of delivering solutio
 
 If your idea can solve a problem that customers will pay for, and you need to build the tech, and the team, let's talk.
 
-### Past Projects
+### Projects
 
 Some of my notable current or past projects include:
 - working with a wider government team to develop future versions of a unique Covid19 contact tracing solution
@@ -21,7 +21,7 @@ Some of my notable current or past projects include:
 - helping develop [APIs](https://dev-portal.at.govt.nz/) for real time tracking of public transport in Auckland
 - working with a broadcast company to streamline their catalogue services
 
-### Experience with
+### Experience
 
 I have experience with the following technologies (groupings are arbitrary):
 
