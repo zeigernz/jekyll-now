@@ -13,7 +13,7 @@ If your idea can solve a problem that customers will pay for, and you need to bu
 ### Projects
 
 Some of my notable current or past projects include:
-- working with a wider government team to enhance [New Zealands covid19 contact tracing solution](https://tracing.covid19.govt.nz/)
+- working with a wider government team to enhance the [New Zealand Covid19 contact tracing solution](https://tracing.covid19.govt.nz/)
 - architecture, design and development of a cloud SaaS product, leveraging the power of big data to deliver [life saving drugs of the future](https://www.geneious.com/biopharma/features/)
 - helping [Auckland Museum](https://www.aucklandmuseum.com/) reach massive audiences with an API driven approach to [digital transformation](https://www.aucklandmuseum.com/discover/collections-online/our-data)
 - setting up devops practices, designing and implementing APIs for one of Australasia's fastest-growing tourism and transport companies
