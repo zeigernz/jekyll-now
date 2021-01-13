@@ -36,7 +36,7 @@ I have experience with the following technologies (groupings are arbitrary):
 - REST API's / Linked Open Data / JSON-LD / Semantic Web
 - Terraform / Ansible / CloudFormation
 - Bitbucket / Github
-- Bamboo / Travis / Jenkins
+- Gitlab/ Bamboo / Travis / Jenkins
 - Monolithic applications / Microservices 
 
 ### Contact me
