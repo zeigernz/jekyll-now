@@ -5,14 +5,13 @@ permalink: /about/
 
 Hi, I'm Jigar, and I like helping teams deliver good software.
 
-I excel in challenging environments that require creative thinking, and I am good at getting things done. I enjoy all 
-aspects of software development, and I have a track record of delivering solutions that customers love.  
-
-If your idea can solve a problem that customers will pay for, and you need to build the tech, and the team, let's talk.
+I excel in challenging environments that require creative thinking, and I am good at getting things done. I enjoy all
+aspects of software development, and I have a track record of delivering solutions that customers love.
 
 ### Projects
 
 Some of my notable current or past projects include:
+- creating a learning platform that will help bring application security skills to development teams all around the world
 - working with a wider government team to enhance the [New Zealand Covid19 contact tracing solution](https://tracing.covid19.govt.nz/)
 - architecture, design and development of a cloud SaaS product, leveraging the power of big data to deliver [life saving drugs of the future](https://www.geneious.com/biopharma/features/)
 - helping [Auckland Museum](https://www.aucklandmuseum.com/) reach massive audiences with an API driven approach to [digital transformation](https://www.aucklandmuseum.com/discover/collections-online/our-data)
@@ -37,7 +36,7 @@ I have experience with the following technologies (groupings are arbitrary):
 - Terraform / Ansible / CloudFormation
 - Bitbucket / Github
 - Gitlab / Bamboo / Travis / Jenkins
-- Monolithic applications / Microservices 
+- Monolithic applications / Microservices
 
 ### Contact me
 
