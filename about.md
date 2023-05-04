@@ -11,7 +11,7 @@ aspects of software development, and I have a track record of delivering solutio
 ### Projects
 
 Some of my notable current or past projects include:
-- creating a learning platform that will help bring application security skills to development teams all around the world
+- creating a [learning platform](https://safestack.io) that will help bring application security skills to development teams all around the world
 - working with a wider government team to enhance the [New Zealand Covid19 contact tracing solution](https://tracing.covid19.govt.nz/)
 - architecture, design and development of a cloud SaaS product, leveraging the power of big data to deliver [life saving drugs of the future](https://www.geneious.com/biopharma/features/)
 - helping [Auckland Museum](https://www.aucklandmuseum.com/) reach massive audiences with an API driven approach to [digital transformation](https://www.aucklandmuseum.com/discover/collections-online/our-data)
