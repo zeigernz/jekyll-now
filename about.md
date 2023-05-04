@@ -16,7 +16,7 @@ Some of my notable current or past projects include:
 - architecture, design and development of a cloud SaaS product, leveraging the power of big data to deliver [life saving drugs of the future](https://www.geneious.com/biopharma/features/)
 - helping [Auckland Museum](https://www.aucklandmuseum.com/) reach massive audiences with an API driven approach to [digital transformation](https://www.aucklandmuseum.com/discover/collections-online/our-data)
 - setting up devops practices, designing and implementing APIs for one of Australasia's fastest-growing tourism and transport companies
-- customising a [project management product](https://www.digite.com/) for one of the worlds leading telecom operators
+- customising a [project management product](https://www.digite.com/) for [Telekom Deutschland](https://www.telekom.de/start), one of Europe's biggest telecom operators 
 - helping develop [APIs](https://dev-portal.at.govt.nz/) for real time tracking of public transport in Auckland
 - working with a broadcast company to streamline their video on demand catalogue services
 
